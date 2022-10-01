@@ -28,6 +28,7 @@ I also have good knowledge of Cisco InterSight along with Cisco UCS & Hyperflex.
   <img alt="GitLab" src="https://img.shields.io/badge/GitLab-%232C5263.svg?style=for-the-badge&logo=GitLab&logoColor=white"/>
   <img alt="Gitbash" src="https://img.shields.io/badge/Gitbash-%232C5263.svg?style=for-the-badge&logo=Gitbash&logoColor=white"/>
   <img alt="Atlassian-Bitbucket" src="https://img.shields.io/badge/Atlassian-Bitbucket-%232C5263.svg?style=for-the-badge&logo=Atlassian-Bitbucket&logoColor=white"/>
+  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=Jenkins&logoColor=white"/>
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-%232C5263.svg?style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
   <img alt="Draw.io" src="https://img.shields.io/badge/Draw.io-%232C5263.svg?style=for-the-badge&logo=Draw.io&logoColor=white"/>
   <img alt="Azur ResourceManager" src="https://img.shields.io/badge/Azure-ResourceManager-%232C5263.svg?style=for-the-badge&logo=Azure-ResourceManager&logoColor=white"/>

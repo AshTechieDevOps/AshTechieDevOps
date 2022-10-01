@@ -33,7 +33,7 @@ I also have good knowledge of Cisco InterSight along with Cisco UCS & Hyperflex.
   <img alt="Cisco-Hyperflex" src="https://img.shields.io/badge/Cisco-Hyperflex-%232C5263.svg?style=for-the-badge&logo=Cisco-Hyperflex&logoColor=white"/>
 </div>
 
-## :link:	Stay in touch by any of the below given communication channel.
+## :link:	Stay in touch by any of the below given communication channels.
 
 <div align="center">
    <a href="https://www.linkedin.com/in/ashish-sharma-51b3a19/" target="_blank">

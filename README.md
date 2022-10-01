@@ -8,7 +8,9 @@ I also have good knowledge of Cisco InterSight along with Cisco UCS & Hyperflex.
 
 # Certifications that I have achieved.
 
-<img width="681" alt="AshLogos" src="https://user-images.githubusercontent.com/110538923/193376344-dd96366e-6412-47dc-914d-93a6700a0bb8.PNG">
+<img width="810" alt="AshLogos" src="https://user-images.githubusercontent.com/110538923/193386052-6b6428ae-647c-4049-90f9-39843ca5e4f5.PNG">
+
+
 
 
 

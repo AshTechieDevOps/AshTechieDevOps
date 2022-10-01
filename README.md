@@ -31,6 +31,7 @@ I also have good knowledge of Cisco InterSight along with Cisco UCS & Hyperflex.
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-%232C5263.svg?style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
   <img alt="Draw.io" src="https://img.shields.io/badge/Draw.io-%232C5263.svg?style=for-the-badge&logo=Draw.io&logoColor=white"/>
   <img alt="Azur ResourceManager" src="https://img.shields.io/badge/Azure-ResourceManager-%232C5263.svg?style=for-the-badge&logo=Azure-ResourceManager&logoColor=white"/>
+  <img alt="Azure Bicep" src="https://img.shields.io/badge/Azure-Bicep-%232C5263.svg?style=for-the-badge&logo=Azure-Bicep&logoColor=white"/>
   <img alt="AWS-CloudFormation" src="https://img.shields.io/badge/AWS-CloudFormation-%232C5263.svg?style=for-the-badge&logo=AWS-CloudFormation&logoColor=white"/>
   <img alt="JASON" src="https://img.shields.io/badge/JASON-%232C5263.svg?style=for-the-badge&logo=JASON&logoColor=white"/>
   <img alt="YAML" src="https://img.shields.io/badge/YAML-%232C5263.svg?style=for-the-badge&logo=YAML&logoColor=white"/>

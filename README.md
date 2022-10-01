@@ -8,15 +8,7 @@ I also has good knowledge of Cisco InterSight along with Cisco UCS & Hyperflex. 
 
 ## Certifications that I achieved
 <div align="center">
-  <img alt="Hashicorp Terraform Assiciate" />
-  <img alt="Microsoft Certified Cybersecurity Architect Expert" src="https://img.shields.io/badge/Microsoft-Certified-Cybersecurity-Architect-Expert-%23092E20.svg?style=for-the-badge&logo=Microsoft-Certified-Cybersecurity-Architect-Expert&logoColor=white"/>
-  <img alt="Microsoft Certified Azure Solutions Architect Expert" src="https://img.shields.io/badge/Microsoft-Certified-Azure-Solutions-Architect-Expert-%23323330.svg?style=for-the-badge&logo=Microsoft-Certified-Azure-Solutions-Architect-Expert&logoColor=%23F7DF1E"/>
-  <img alt="Microsoft Certified DevOps Engineer Expert" src="https://img.shields.io/badge/Microsoft-Certified-DevOps-Engineer-Expert.svg?style=for-the-badge&logo=Microsoft-Certified-DevOps-Engineer-Expert&logoColor=%2361DAFB"/>
-  <img alt="Microsoft Certified Azure Security Engineer Associate" src="https://img.shields.io/badge/Microsoft-Certified-Azure-Security-Engineer-Associate-%23323330.svg?style=for-the-badge&logo=Microsoft-Certified-Azure-Security-Engineer-Associate&logoColor=%23F7DF1E"/>
-  <img alt="AWS Certified Solutions Architect Associate" src="https://img.shields.io/badge/AWS-Certified-Solutions-Architect-Associate-%2320232a.svg?style=for-the-badge&logo=AWS-Certified-Solutions-Architect-Associate&logoColor=%2361DAFB"/>
-  <img alt="Microsoft Certified Azure Administraor Associate" src="https://img.shields.io/badge/Microsoft-Certified-Azure-Administraor-Associate-%23323330.svg?style=for-the-badge&logo=Microsoft-Certified-Azure-Administraor-Associate&logoColor=%23F7DF1E"/>
-  <img alt="Double VCP-DCV and VCP-NV" src="https://img.shields.io/badge/<img alt="Double-VCP-DCV-and-VCP-NV" src="https://img.shields.io/badge/Double-VCP-DCV-and-VCP-NV-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>-%23323330.svg?style=for-the-badge&logo=Double-VCP-DCV-and-VCP-NV&logoColor=%23F7DF1E"/>
-  <img alt="Black Belt - Tech Expert FY 22 for UCS and HyperFlex" src="https://img.shields.io/badge/<img alt="BlackBelt-TechExpert-FY22-UCS-and-HyperFlex" src="https://img.shields.io/badge/BlackBelt-TechExpert-FY22-UCS-and-HyperFlex-%23323330.svg?style=for-the-badge&logo=BlackBelt-TechExpert-FY22-UCS-and-HyperFlex&logoColor=%23F7DF1E"/>-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+![AWSSolArchAssoOldLogo](https://user-images.githubusercontent.com/110538923/193375219-80a18de2-fabc-40db-bb9b-7ce050479b9d.png)
 </div>
 
 ## Technologies I work on

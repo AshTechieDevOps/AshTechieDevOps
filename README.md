@@ -23,7 +23,7 @@ I also have good knowledge of Cisco InterSight along with Cisco UCS & Hyperflex.
   <img alt="AWS" src="https://img.shields.io/badge/AWS-%23009639.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white"/> 
   <img alt="Terraform" src="https://img.shields.io/badge/Heshicrop-Terraform-%232C5263.svg?style=for-the-badge&logo=Heshicorp-Terraform&logoColor=white"/>
   <img alt="GitHub-Actions" src="https://img.shields.io/badge/GitHub-Actions-%232C5263.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white"/>
-  <img alt="Azur Resource Manager" src="https://img.shields.io/badge/Azure-Resource-Manager-%232C5263.svg?style=for-the-badge&logo=Azure-Resource-Manager&logoColor=white"/>
+  <img alt="Azur ResourceManager" src="https://img.shields.io/badge/Azure-ResourceManager-%232C5263.svg?style=for-the-badge&logo=Azure-ResourceManager&logoColor=white"/>
   <img alt="AWS-CloudFormation" src="https://img.shields.io/badge/AWS-CloudFormation-%232C5263.svg?style=for-the-badge&logo=AWS-CloudFormation&logoColor=white"/>
   <img alt="JASON" src="https://img.shields.io/badge/JASON-%232C5263.svg?style=for-the-badge&logo=JASON&logoColor=white"/>
   <img alt="YAML" src="https://img.shields.io/badge/YAML-%232C5263.svg?style=for-the-badge&logo=YAML&logoColor=white"/>

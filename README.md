@@ -15,16 +15,16 @@ I also have good knowledge of Cisco InterSight along with Cisco UCS & Hyperflex.
 ## Technologies I work on.
 <div align="center">
   <img alt="Windows" src="https://img.shields.io/badge/Microsoft-Windows-%23FF9900.svg?style=for-the-badge&logo=Microsoft-Windows&logoColor=white"/>
-  <img alt="PowerShell and Azure Powershell" src="https://img.shields.io/badge/Powershell-Azure-Powershell-%23FF9900.svg?style=for-the-badge&logo=Powershell-Azure-Powershell&logoColor=white"/>
-  <img alt="VMware DCV and NV" src="https://img.shields.io/badge/VMWare-vSphere-%230db7ed.svg?style=for-the-badge&logo=VMware-DCV-and-NV&logoColor=white"/>
+  <img alt="Powershell-Azure-Powershell" src="https://img.shields.io/badge/Powershell-Azure-Powershell-%23FF9900.svg?style=for-the-badge&logo=Powershell-Azure-Powershell&logoColor=white"/>
+  <img alt="VMware-DCV-and-NV" src="https://img.shields.io/badge/VMWare-vSphere-%230db7ed.svg?style=for-the-badge&logo=VMware-DCV-and-NV&logoColor=white"/>
   <img alt="Azure" src="https://img.shields.io/badge/Microsoft-Azure-%23430098.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white"/>
-  <img alt="Scripted Automation of Azure Migrate" src="https://img.shields.io/badge/Scripted-Automation-of-Azure-Migrate-%23430098.svg?style=for-the-badge&logo=Scripted-Automation-of-Azure-Migrate&logoColor=white"/>
+  <img alt="Scripted-Automation-of-Azure-Migrate" src="https://img.shields.io/badge/Scripted-Automation-of-Azure-Migrate-%23430098.svg?style=for-the-badge&logo=Scripted-Automation-of-Azure-Migrate&logoColor=white"/>
   <img alt="AWS" src="https://img.shields.io/badge/AWS-%23009639.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white"/> 
   <img alt="Terraform" src="https://img.shields.io/badge/Heshicrop-Terraform-%232C5263.svg?style=for-the-badge&logo=Heshicorp-Terraform&logoColor=white"/>
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub-Actions-%232C5263.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white"/>
-  <img alt="ARM and Azure Bicep" src="https://img.shields.io/badge/ARM-Azure-Bicep-%232C5263.svg?style=for-the-badge&logo=ARM-Azure-Bicep&logoColor=white"/>
-  <img alt="AWS CloudFormation" src="https://img.shields.io/badge/AWS-CloudFormation-%232C5263.svg?style=for-the-badge&logo=AWS-CloudFormation&logoColor=white"/>
-  <img alt="Jason and YAML" src="https://img.shields.io/badge/Jason-and-YAML-%232C5263.svg?style=for-the-badge&logo=Jason-and-YAML&logoColor=white"/>
+  <img alt="GitHub-Actions" src="https://img.shields.io/badge/GitHub-Actions-%232C5263.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white"/>
+  <img alt="ARM-and-Azure Bicep" src="https://img.shields.io/badge/ARM-Azure-Bicep-%232C5263.svg?style=for-the-badge&logo=ARM-Azure-Bicep&logoColor=white"/>
+  <img alt="AWS-CloudFormation" src="https://img.shields.io/badge/AWS-CloudFormation-%232C5263.svg?style=for-the-badge&logo=AWS-CloudFormation&logoColor=white"/>
+  <img alt="Jason-and-YAML" src="https://img.shields.io/badge/Jason-and-YAML-%232C5263.svg?style=for-the-badge&logo=Jason-and-YAML&logoColor=white"/>
   <img alt="Cisco-UCS" src="https://img.shields.io/badge/Cisco-UCS-%232C5263.svg?style=for-the-badge&logo=Cisco-UCS&logoColor=white"/>
   <img alt="Cisco-Hyperflex" src="https://img.shields.io/badge/Cisco-Hyperflex-%232C5263.svg?style=for-the-badge&logo=Cisco-Hyperflex&logoColor=white"/>
 </div>

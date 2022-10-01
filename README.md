@@ -14,11 +14,11 @@ I also have good knowledge of Cisco InterSight along with Cisco UCS & Hyperflex.
 
 ## Technologies I work on.
 <div align="center">
-  <img alt="Windows" src="https://img.shields.io/badge/Windows-%23FF9900.svg?style=for-the-badge&logo=Windows&logoColor=white"/>
-  <img alt="VMware DCV and NV" src="https://img.shields.io/badge/VMWare-%230db7ed.svg?style=for-the-badge&logo=VMware-DCV-and-NV&logoColor=white"/>
-  <img alt="Azure" src="https://img.shields.io/badge/Azure-%23430098.svg?style=for-the-badge&logo=Azure&logoColor=white"/>
+  <img alt="Windows" src="https://img.shields.io/badge/Microsoft-Windows-%23FF9900.svg?style=for-the-badge&logo=Microsoft-Windows&logoColor=white"/>
+  <img alt="VMware DCV and NV" src="https://img.shields.io/badge/VMWare-vSphere-%230db7ed.svg?style=for-the-badge&logo=VMware-DCV-and-NV&logoColor=white"/>
+  <img alt="Azure" src="https://img.shields.io/badge/Microsoft-Azure-%23430098.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white"/>
   <img alt="AWS" src="https://img.shields.io/badge/AWS-%23009639.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white"/> 
-  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-%232C5263.svg?style=for-the-badge&logo=Heshicorp-Terraform&logoColor=white"/>
+  <img alt="Terraform" src="https://img.shields.io/badge/Heshicrop-Terraform-%232C5263.svg?style=for-the-badge&logo=Heshicorp-Terraform&logoColor=white"/>
 </div>
 
 ## :link:	Stay in touch by any of the below given communication channel.

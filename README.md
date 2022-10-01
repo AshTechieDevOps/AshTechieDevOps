@@ -35,6 +35,7 @@ I also have good knowledge of Cisco InterSight along with Cisco UCS & Hyperflex.
   <img alt="AWS-CloudFormation" src="https://img.shields.io/badge/AWS-CloudFormation-%232C5263.svg?style=for-the-badge&logo=AWS-CloudFormation&logoColor=white"/>
   <img alt="JASON" src="https://img.shields.io/badge/JASON-%232C5263.svg?style=for-the-badge&logo=JASON&logoColor=white"/>
   <img alt="YAML" src="https://img.shields.io/badge/YAML-%232C5263.svg?style=for-the-badge&logo=YAML&logoColor=white"/>
+  <img alt="Microsoft Projects" src="https://img.shields.io/badge/Microsoft-Projects-%232C5263.svg?style=for-the-badge&logo=Microsoft-Projects&logoColor=white"/>
   <img alt="Cisco-UCS" src="https://img.shields.io/badge/Cisco-UCS-%232C5263.svg?style=for-the-badge&logo=Cisco-UCS&logoColor=white"/>
   <img alt="Cisco-Hyperflex" src="https://img.shields.io/badge/Cisco-Hyperflex-%232C5263.svg?style=for-the-badge&logo=Cisco-Hyperflex&logoColor=white"/>
   <img alt="Dell-VxRail" src="https://img.shields.io/badge/Dell-VxRail-%232C5263.svg?style=for-the-badge&logo=Dell-VxRail&logoColor=white"/>

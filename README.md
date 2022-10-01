@@ -34,6 +34,7 @@ I also have good knowledge of Cisco InterSight along with Cisco UCS & Hyperflex.
   <img alt="YAML" src="https://img.shields.io/badge/YAML-%232C5263.svg?style=for-the-badge&logo=YAML&logoColor=white"/>
   <img alt="Cisco-UCS" src="https://img.shields.io/badge/Cisco-UCS-%232C5263.svg?style=for-the-badge&logo=Cisco-UCS&logoColor=white"/>
   <img alt="Cisco-Hyperflex" src="https://img.shields.io/badge/Cisco-Hyperflex-%232C5263.svg?style=for-the-badge&logo=Cisco-Hyperflex&logoColor=white"/>
+  <img alt="Dell EMC VxRail" src="https://img.shields.io/badge/Dell-EMC-VxRail-%232C5263.svg?style=for-the-badge&logo=Dell-EMC-VxRail&logoColor=white"/>
 </div>
 
 ## :link:	Stay in touch by any of the below given communication channels.

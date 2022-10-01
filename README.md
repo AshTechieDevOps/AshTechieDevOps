@@ -20,6 +20,7 @@ I also have good knowledge of Cisco InterSight along with Cisco UCS & Hyperflex.
   <img alt="Microsoft Powershell" src="https://img.shields.io/badge/Microsoft-Powershell-%23FF9900.svg?style=for-the-badge&logo=Microsoft-Powershell&logoColor=white"/>
   <img alt="VMware-DCV-and-NV" src="https://img.shields.io/badge/VMWare-vSphere-%230db7ed.svg?style=for-the-badge&logo=VMware-DCV-and-NV&logoColor=white"/>
   <img alt="VMware-NSX" src="https://img.shields.io/badge/VMware-NSX-%230db7ed.svg?style=for-the-badge&logo=VMware-NSX&logoColor=white"/>
+  <img alt="VMware-vRops" src="https://img.shields.io/badge/VMware-vRops-%230db7ed.svg?style=for-the-badge&logo=VMware-vRops&logoColor=white"/>
   <img alt="Azure" src="https://img.shields.io/badge/Microsoft-Azure-%23430098.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white"/>
   <img alt="Azure Powershell" src="https://img.shields.io/badge/Azure-Powershell-%23430098.svg?style=for-the-badge&logo=Azure-PowerShell&logoColor=white"/>
   <img alt="AzureMigarte" src="https://img.shields.io/badge/Microsoft-AzureMigarte-Automation%23430098.svg?style=for-the-badge&logo=AzureMigrate-Automation&logoColor=white"/>

@@ -24,6 +24,7 @@ I also have good knowledge of Cisco InterSight along with Cisco UCS & Hyperflex.
   <img alt="VMware-vRO" src="https://img.shields.io/badge/VMware-vRO-%230db7ed.svg?style=for-the-badge&logo=VMware-vRO&logoColor=white"/>
   <img alt="VMware-vRA" src="https://img.shields.io/badge/VMware-vRA-%230db7ed.svg?style=for-the-badge&logo=VMware-vRA&logoColor=white"/>
   <img alt="VMware-HCX" src="https://img.shields.io/badge/VMware-HCX-%230db7ed.svg?style=for-the-badge&logo=VMware-HCX&logoColor=white"/>
+  <img alt="VMware-VMC-On-AWS" src="https://img.shields.io/badge/VMware-VMC-On-AWS-%230db7ed.svg?style=for-the-badge&logo=VMware-VMC-On-AWS&logoColor=white"/>
   <img alt="Azure" src="https://img.shields.io/badge/Microsoft-Azure-%23430098.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white"/>
   <img alt="Azure Powershell" src="https://img.shields.io/badge/Azure-Powershell-%23430098.svg?style=for-the-badge&logo=Azure-PowerShell&logoColor=white"/>
   <img alt="AzureMigarte" src="https://img.shields.io/badge/Microsoft-AzureMigarte-Automation%23430098.svg?style=for-the-badge&logo=AzureMigrate-Automation&logoColor=white"/>

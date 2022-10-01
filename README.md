@@ -8,7 +8,7 @@ I also has good knowledge of Cisco InterSight along with Cisco UCS & Hyperflex. 
 
 ## Certifications that I achieved
 <div align="center">
-![AWSSolArchAssoOldLogo](https://user-images.githubusercontent.com/110538923/193375219-80a18de2-fabc-40db-bb9b-7ce050479b9d.png)
+<img alt="AWS Certified Solutions Architect Associate"![AWSSolArchAssoOldLogo](https://user-images.githubusercontent.com/110538923/193375219-80a18de2-fabc-40db-bb9b-7ce050479b9d.png)style=for-the-badge&logo=AWS-Certified-Solutions-Architect-Associate&logoColor=%2361DAFB"/>
 </div>
 
 ## Technologies I work on

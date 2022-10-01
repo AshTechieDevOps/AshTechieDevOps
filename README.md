@@ -6,13 +6,13 @@ I also have good knowledge of Cisco InterSight along with Cisco UCS & Hyperflex.
 
 ---
 
-# Certifications that I achieved
+# Certifications that I have achieved.
 
 <img width="681" alt="AshLogos" src="https://user-images.githubusercontent.com/110538923/193376344-dd96366e-6412-47dc-914d-93a6700a0bb8.PNG">
 
 
 
-## Technologies I work on
+## Technologies I work on.
 <div align="center">
   <img alt="Windows" src="https://img.shields.io/badge/Windows-%23FF9900.svg?style=for-the-badge&logo=Windows&logoColor=white"/>
   <img alt="VMware DCV and NV" src="https://img.shields.io/badge/VMWare-%230db7ed.svg?style=for-the-badge&logo=VMware-DCV-and-NV&logoColor=white"/>
@@ -21,7 +21,7 @@ I also have good knowledge of Cisco InterSight along with Cisco UCS & Hyperflex.
   <img alt="Terraform" src="https://img.shields.io/badge/Terraform-%232C5263.svg?style=for-the-badge&logo=Heshicorp-Terraform&logoColor=white"/>
 </div>
 
-## :link:	Stay in touch
+## :link:	Stay in touch by any of the below given communication channel.
 
 <div align="center">
    <a href="https://www.linkedin.com/in/ashish-sharma-51b3a19/" target="_blank">

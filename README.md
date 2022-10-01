@@ -8,7 +8,7 @@ I also has good knowledge of Cisco InterSight along with Cisco UCS & Hyperflex. 
 
 ## Certifications that I achieved
 <div align="center">
-  <img alt="Hashicorp Terraform Assiciate" src="https://img.shields.io/badge/Hashicorp-Terraform-Assiciate-%2314354C.svg?style=for-the-badge&logo=Hashicorp Terraform Assiciate&logoColor=white"/>
+  <img alt="Hashicorp Terraform Assiciate" />
   <img alt="Microsoft Certified Cybersecurity Architect Expert" src="https://img.shields.io/badge/Microsoft-Certified-Cybersecurity-Architect-Expert-%23092E20.svg?style=for-the-badge&logo=Microsoft-Certified-Cybersecurity-Architect-Expert&logoColor=white"/>
   <img alt="Microsoft Certified Azure Solutions Architect Expert" src="https://img.shields.io/badge/Microsoft-Certified-Azure-Solutions-Architect-Expert-%23323330.svg?style=for-the-badge&logo=Microsoft-Certified-Azure-Solutions-Architect-Expert&logoColor=%23F7DF1E"/>
   <img alt="Microsoft Certified DevOps Engineer Expert" src="https://img.shields.io/badge/Microsoft-Certified-DevOps-Engineer-Expert.svg?style=for-the-badge&logo=Microsoft-Certified-DevOps-Engineer-Expert&logoColor=%2361DAFB"/>

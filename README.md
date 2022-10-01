@@ -2,7 +2,7 @@
 
 I`m Ashish Sharma who have 24+Years of Mix & Match Experience of Designing and Architecting Wintel, VMware DCV/NSX/vRO/vRA/vRops, Azure & AWS Solution Architect, Microsoft Cybersecurity, Azure DevOps, Expertise in IaC and Automation using Terraform, Code as Infrastructure(Reverse Terraforming), ARM, Azure Bicep, JSON, GitHub Actions, YAML, AWS CloudFomation, Poweshell, Azure Powershell etc. I also have good knowledge of Scrum, Kanban and other Agile and Poject Management tools and methodologies like Microsoft Projects & Jira etc. :rocket:
 
-I also have good knowledge of Cisco InterSight along with Cisco UCS & Hyperflex. I have major expertise in Solution Designing of Datacenter and Network Virtualization using VMware vSphere, On-Premises to On-Premises and On-Premised DC to Cloud Migration & Transformation, Automated & Scripted Migration. Infrastructure as Code and DevOps, GitHub Actions. :rocket:. I have also taken care of a variety of Greenfield and Brownfield Infrastructure Design, Management, and Security Compliance requirements.
+I also have good knowledge of Cisco InterSight along with Cisco UCS & Hyperflex. I have major expertise in Solution Designing of Datacenter and Network Virtualization using VMware vSphere, On-Premises to On-Premises and On-Premised DC to Cloud Migration & Transformation, Automated & Scripted Migration. Infrastructure as Code and DevOps, GitHub Actions. :rocket: I have also taken care of a variety of Greenfield and Brownfield Infrastructure Design, Management, and Security Compliance requirements.
 
 ---
 

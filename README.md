@@ -24,16 +24,16 @@ I also has good knowledge of Cisco InterSight along with Cisco UCS & Hyperflex. 
 ## :link:	Stay in touch
 
 <div align="center">
+   <a href="https://www.linkedin.com/in/ashish-sharma-51b3a19/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+   <a href="mailto:ashish@ashtechie.com;sendmail.ashish@gmail.com" target="_blank">
+  <img alt="ashtechie" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=ashtechie&logoColor=white" />
+  </a>
   <a href="https://twitter.com/ashtechie777" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/ashtechie777-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ashish-sharma-51b3a19/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/ashtechieworld" target="_blank">
   <img alt="instagram" src="https://img.shields.io/badge/instagram-%231877F2.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="mailto:ashish@ashtechie.com" target="_blank">
-  <img alt="ashtechie" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=ashtechie&logoColor=white" />
-</a>
-</div>
+ </div>

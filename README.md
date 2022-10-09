@@ -56,6 +56,7 @@ I do have sound knowledge of Cisco InterSight along with Cisco UCS, Hyperflex, D
   <img alt="YAML" src="https://img.shields.io/badge/YAML-%232C5263.svg?style=for-the-badge&logo=YAML&logoColor=white"/>
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-%232C5263.svg?style=for-the-badge&logo=Kubernetes&logoColor=white"/>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-%232C5263.svg?style=for-the-badge&logo=Docker-VxRail&logoColor=white"/>
+  <img alt="Ansible" src="https://img.shields.io/badge/Ansible-%232C5263.svg?style=for-the-badge&logo=Ansible-VxRail&logoColor=white"/>
   <img alt="Microsoft Projects" src="https://img.shields.io/badge/Microsoft-Projects-%232C5263.svg?style=for-the-badge&logo=Microsoft-Projects&logoColor=white"/>
   <img alt="ATLASSIAN JIRA" src="https://img.shields.io/badge/ATLASSIAN-JIRA-%232C5263.svg?style=for-the-badge&logo=ATLASSIAN-JIRA&logoColor=white"/>
   <img alt="Cisco-UCS" src="https://img.shields.io/badge/Cisco-UCS-%232C5263.svg?style=for-the-badge&logo=Cisco-UCS&logoColor=white"/>

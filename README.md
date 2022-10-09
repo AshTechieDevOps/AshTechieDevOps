@@ -1,18 +1,28 @@
 # Hi There <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I`m Ashish Sharma who have 24+Years of Mix & Match Experience of Designing and Architecting Wintel, VMware DCV/NSX/vRO/vRA/vRops, Azure & AWS Solution Architect, Microsoft Cybersecurity, Azure DevOps, Expertise in IaC and Automation using Terraform, Code as Infrastructure(Reverse Terraforming), ARM, Azure Bicep, JSON, GitHub Actions, YAML, AWS CloudFomation, Poweshell, Azure Powershell etc. I also have good knowledge of Scrum, Kanban and other Agile and Poject Management tools and methodologies like Microsoft Projects & Jira etc. :rocket:
+I`m Ashish Sharma who brings 24+ Years of Mix & Match Experience of Designing and Architecting Wintel, VMware DCV/NSX/vRO/vRA/vRops, Azure Cloud, Microsoft Cybersecurity, Azure DevOps, AWS, and Google Cloud Solutions offerings.
 
-I also have good knowledge of Cisco InterSight along with Cisco UCS & Hyperflex. I have major expertise in Solution Designing of Datacenter and Network Virtualization using VMware vSphere, On-Premises to On-Premises and On-Premised DC to Cloud Migration & Transformation, Automated & Scripted Migration. Infrastructure as Code and DevOps, GitHub Actions. :rocket: I have also taken care of a variety of Greenfield and Brownfield Infrastructure Design, Management, and Security Compliance requirements.
+I am an Expert of Infrastructure as Code using Terraform, Code as Infrastructure (Reverse Terraforming), ARM, Azure Bicep, JSON, AWS CloudFormation, Automation using GitHub Actions, YAML, Jenkins, PowerShell, Azure PowerShell, Configuration Management using Ansible etc. I have very good understanding of Microservices, Containerization aka Open-Source Kubernetes, Docker, Tanzu Grid Cluster and have good knowledge of Scrum, Kanban and other Agile and Project Management tools and methodologies like Microsoft Projects & Jira etc. I am currently exploring “Artificial Intelligence for IT Operations (AIOps)”, specifically Moogsoft.
+
+I do have sound knowledge of Cisco InterSight along with Cisco UCS, Hyperflex, Dell EMC VXRail and other Hyperconverged, Converged & Bare Metal Server Hardware. I have major expertise in Solution Designing of Datacenter and Network Virtualization using VMware vSphere, On-Premises to On-Premises and On-Premises to Cloud Migration & Transformation, Automated & Scripted Migration. I have also taken care of a variety of Greenfield and Brownfield Infrastructure Design, Management, and Security Compliance requirements.
 
 ---
 
 # Certifications that I have achieved.
 
-<img width="810" alt="AshLogos" src="https://user-images.githubusercontent.com/110538923/193386052-6b6428ae-647c-4049-90f9-39843ca5e4f5.PNG">
+![SignatureLogosLatest](https://user-images.githubusercontent.com/110538923/194779539-1a54e535-9b3d-403c-9159-0cbe97f729bc.PNG)
 
-
-
-
+🏆 Active Certifications
+AWS Certified Solutions Architect Associate
+Microsoft Certified Cybersecurity Architect Expert
+Hashicorp Terraform Certified Associate
+Microsoft Certified DevOps Engineer Expert
+Microsoft Certified Azure Security Engineer Associate
+Microsoft Certified Azure Solutions Architect Expert
+Microsoft Certified Azure Administrator Associate
+Black Belt-Tech Expert-Hyperflex Deployment-Stage 1 FY22
+Black Belt-Tech Expert-Cisco UCS Deployment-Stage 1 FY22
+VMWare 2X Certified Professional - Datacenter & Network Virtualization
 
 ## Technologies I work on.
 <div align="center">

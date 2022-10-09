@@ -54,12 +54,13 @@ I do have sound knowledge of Cisco InterSight along with Cisco UCS, Hyperflex, D
   <img alt="AWS-CloudFormation" src="https://img.shields.io/badge/AWS-CloudFormation-%232C5263.svg?style=for-the-badge&logo=AWS-CloudFormation&logoColor=white"/>
   <img alt="JASON" src="https://img.shields.io/badge/JASON-%232C5263.svg?style=for-the-badge&logo=JASON&logoColor=white"/>
   <img alt="YAML" src="https://img.shields.io/badge/YAML-%232C5263.svg?style=for-the-badge&logo=YAML&logoColor=white"/>
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-%232C5263.svg?style=for-the-badge&logo=Kubernetes&logoColor=white"/>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-%232C5263.svg?style=for-the-badge&logo=Docker-VxRail&logoColor=white"/>
   <img alt="Microsoft Projects" src="https://img.shields.io/badge/Microsoft-Projects-%232C5263.svg?style=for-the-badge&logo=Microsoft-Projects&logoColor=white"/>
   <img alt="ATLASSIAN JIRA" src="https://img.shields.io/badge/ATLASSIAN-JIRA-%232C5263.svg?style=for-the-badge&logo=ATLASSIAN-JIRA&logoColor=white"/>
   <img alt="Cisco-UCS" src="https://img.shields.io/badge/Cisco-UCS-%232C5263.svg?style=for-the-badge&logo=Cisco-UCS&logoColor=white"/>
   <img alt="Cisco-Hyperflex" src="https://img.shields.io/badge/Cisco-Hyperflex-%232C5263.svg?style=for-the-badge&logo=Cisco-Hyperflex&logoColor=white"/>
   <img alt="Dell-VxRail" src="https://img.shields.io/badge/Dell-VxRail-%232C5263.svg?style=for-the-badge&logo=Dell-VxRail&logoColor=white"/>
-  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=Jenkins&logoColor=white"/>
   <img alt="Jira" src="https://img.shields.io/badge/Jira-%232C5263.svg?style=for-the-badge&logo=Jira&logoColor=white"/>
   <img alt="MS-Projects" src="https://img.shields.io/badge/MS-Projects-%232C5263.svg?style=for-the-badge&logo=MS-Projects&logoColor=white"/>
 </div>

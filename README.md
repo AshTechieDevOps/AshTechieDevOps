@@ -41,6 +41,7 @@ I do have sound knowledge of Cisco InterSight along with Cisco UCS, Hyperflex, D
   <img alt="Azure Powershell" src="https://img.shields.io/badge/Azure-Powershell-%23430098.svg?style=for-the-badge&logo=Azure-PowerShell&logoColor=white"/>
   <img alt="AzureMigarte" src="https://img.shields.io/badge/Microsoft-AzureMigarte-Automation%23430098.svg?style=for-the-badge&logo=AzureMigrate-Automation&logoColor=white"/>
   <img alt="AWS" src="https://img.shields.io/badge/AWS-%23009639.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white"/> 
+  <img alt="Google-Cloud" src="https://img.shields.io/badge/Google-Cloud-%23009639.svg?style=for-the-badge&logo=Google-Cloud-AWS&logoColor=white"/> 
   <img alt="Terraform" src="https://img.shields.io/badge/Hashicorp-Terraform-%232C5263.svg?style=for-the-badge&logo=Hashicorp-Terraform&logoColor=white"/>
   <img alt="GitHub-Actions" src="https://img.shields.io/badge/GitHub-Actions-%232C5263.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white"/>
   <img alt="GitLab" src="https://img.shields.io/badge/GitLab-%232C5263.svg?style=for-the-badge&logo=GitLab&logoColor=white"/>

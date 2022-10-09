@@ -61,6 +61,7 @@ I do have sound knowledge of Cisco InterSight along with Cisco UCS, Hyperflex, D
   <img alt="Dell-VxRail" src="https://img.shields.io/badge/Dell-VxRail-%232C5263.svg?style=for-the-badge&logo=Dell-VxRail&logoColor=white"/>
   <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=Jenkins&logoColor=white"/>
   <img alt="Jira" src="https://img.shields.io/badge/Jira-%232C5263.svg?style=for-the-badge&logo=Jira&logoColor=white"/>
+  <img alt="MS-Projects" src="https://img.shields.io/badge/MS-Projects-%232C5263.svg?style=for-the-badge&logo=MS-Projects&logoColor=white"/>
 </div>
 
 ## :link:	Stay in touch by any of the below given communication channels.

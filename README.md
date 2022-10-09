@@ -12,17 +12,18 @@ I do have sound knowledge of Cisco InterSight along with Cisco UCS, Hyperflex, D
 
 ![SignatureLogosLatest](https://user-images.githubusercontent.com/110538923/194779539-1a54e535-9b3d-403c-9159-0cbe97f729bc.PNG)
 
-🏆 Active Certifications
-AWS Certified Solutions Architect Associate
-Microsoft Certified Cybersecurity Architect Expert
-Hashicorp Terraform Certified Associate
-Microsoft Certified DevOps Engineer Expert
-Microsoft Certified Azure Security Engineer Associate
-Microsoft Certified Azure Solutions Architect Expert
-Microsoft Certified Azure Administrator Associate
-Black Belt-Tech Expert-Hyperflex Deployment-Stage 1 FY22
-Black Belt-Tech Expert-Cisco UCS Deployment-Stage 1 FY22
-VMWare 2X Certified Professional - Datacenter & Network Virtualization
+## 🏆 Active Certifications
+
+-	AWS Certified Solutions Architect Associate
+-	Microsoft Certified Cybersecurity Architect Expert
+-	Hashicorp Terraform Certified Associate
+-	Microsoft Certified DevOps Engineer Expert
+-	Microsoft Certified Azure Security Engineer Associate
+-	Microsoft Certified Azure Solutions Architect Expert
+-	Microsoft Certified Azure Administrator Associate
+-	Black Belt-Tech Expert-Hyperflex Deployment-Stage 1 FY22
+-	Black Belt-Tech Expert-Cisco UCS Deployment-Stage 1 FY22
+-	VMWare 2X Certified Professional - Datacenter & Network Virtualization
 
 ## Technologies I work on.
 <div align="center">

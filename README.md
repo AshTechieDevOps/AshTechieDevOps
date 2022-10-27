@@ -1,3 +1,7 @@
+
+
+![My LinkedIn Banner](https://user-images.githubusercontent.com/110538923/198407851-7eb4186e-9d10-48e5-aea3-f3decc1a710f.png)
+
 # Hi There <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 I`m Ashish Sharma who brings 24+ Years of Mix & Match Experience of Designing and Architecting Wintel, VMware DCV/NSX/vRO/vRA/vRops, Azure Cloud, Microsoft Cybersecurity, Azure DevOps, AWS, and Google Cloud Solutions offerings.
@@ -14,6 +18,7 @@ I do have sound knowledge of Cisco InterSight along with Cisco UCS, Hyperflex, D
 
 ## 🏆 Active Certifications
 
+- AWS Certified Solutions Architect Professional
 -	AWS Certified Solutions Architect Associate
 -	Microsoft Certified Cybersecurity Architect Expert
 -	Hashicorp Terraform Certified Associate

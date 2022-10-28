@@ -13,7 +13,7 @@
 
 # Certifications that I have achieved.
 
-![SignatureLogosLatest](https://user-images.githubusercontent.com/110538923/194779539-1a54e535-9b3d-403c-9159-0cbe97f729bc.PNG)
+<img width="928" alt="MyCertLogosTill28Oct" src="https://user-images.githubusercontent.com/110538923/198579288-fb21c151-1574-433e-9427-a84f9b1575f8.PNG">
 
 ## 🏆 Active Certifications
 

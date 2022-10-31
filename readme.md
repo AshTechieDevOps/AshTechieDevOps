@@ -74,7 +74,7 @@
 
 <div align="center">
     <a href="https://www.youtube.com/channel/UCH7LRlDE5ec_dVJgMIj3LcQ/" target="_blank">
-    <img alt="YouTube Channel" src="https://img.shields.io/badge/YouTube-%230077B5.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
+    <img alt="AshTechie On YouTube" src="https://img.shields.io/badge/AshTechie On YouTube-%230077B5.svg?style=for-the-badge&logo=AshTechie On YouTube&logoColor=white"/>
   </a>
    <a href="https://www.linkedin.com/in/ashish-sharma-51b3a19/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>

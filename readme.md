@@ -13,10 +13,11 @@
 
 # Certifications that I have achieved.
 
-<img width="928" alt="MyCertLogosTill28Oct" src="https://user-images.githubusercontent.com/110538923/198579288-fb21c151-1574-433e-9427-a84f9b1575f8.PNG">
+<img width="912" alt="AshTechieCertLogosTillPresent" src="https://user-images.githubusercontent.com/110538923/199002907-971fb654-3aa6-4aa8-a30c-b0cb3f15838b.PNG">
 
 ## 🏆 Active Certifications
 
+- Google Certified Associate Cloud Engineer
 - AWS Certified Solutions Architect Professional
 -	AWS Certified Solutions Architect Associate
 -	Microsoft Certified Cybersecurity Architect Expert
@@ -72,6 +73,9 @@
 ## :link:	Stay in touch by any of the below given communication channels.
 
 <div align="center">
+    <a href="https://www.youtube.com/channel/UCH7LRlDE5ec_dVJgMIj3LcQ/" target="_blank">
+    <img alt="YouTube Channel" src="https://img.shields.io/badge/YouTube-%230077B5.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
+  </a>
    <a href="https://www.linkedin.com/in/ashish-sharma-51b3a19/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>

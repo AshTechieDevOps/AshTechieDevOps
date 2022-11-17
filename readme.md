@@ -13,10 +13,12 @@
 
 # Certifications that I have achieved.
 
-<img width="912" alt="AshTechieCertLogosTillPresent" src="https://user-images.githubusercontent.com/110538923/199002907-971fb654-3aa6-4aa8-a30c-b0cb3f15838b.PNG">
+<img width="899" alt="AshTechieCertLogosFinal" src="https://user-images.githubusercontent.com/110538923/202397458-125c6805-b1cf-4e4c-a139-6e9a2b93cb41.PNG">
 
 ## 🏆 Active Certifications
 
+- AWS Certified DevOps Engineer Professional
+- Google Certified Cloud Architect Professional
 - Google Certified Associate Cloud Engineer
 - AWS Certified Solutions Architect Professional
 -	AWS Certified Solutions Architect Associate

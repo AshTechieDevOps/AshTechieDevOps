@@ -7,7 +7,7 @@
 
 ## Hi There <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-### I`m Ashish Sharma who brings 20+ Years of Mix & Match Experience of Designing and Architecting VMware DCV/NSX/vRops, Azure Cloud, Microsoft Cybersecurity, Azure DevOps, AWS, and Google Cloud Solutions offerings. Great amount of Experience of providing level 4 & 5 support to the Team size of 22+ Azure Cloud Solution Architects, SMEs and Azure DevOps IaC Engineers.
+### I`m Ashish Sharma who brings 20+ Years of Mix & Match Experience of Designing and Architecting VMware DCV/NSX/vRops, Azure Cloud, Azure DevOps, Microsoft Cybersecurity, AWS, and Google Cloud Solutions offerings. Great amount of Experience of providing level 4 & 5 support to the Team size of 22+ Azure Cloud Solution Architects, SMEs and Azure DevOps IaC Engineers.
 
 ### I am an Expert of Infrastructure as Code using Azure Bicep, Terraform, Code as Infrastructure (Reverse Terraforming) and IaC Automation using GitHub Actions,  PowerShell, Azure PowerShell, Azure Automation etc. I have very good understanding of Microservices, Containerization aka Open-Source Kubernetes, Docker, Tanzu Grid Cluster and have good knowledge of Scrum, Kanban and other Agile and Project Management tools and methodologies like Microsoft Projects etc.
 
